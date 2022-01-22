@@ -13,3 +13,5 @@ Now go out there and have a delightful day :sunny: or night :full_moon:
 
 Sincerely;
 staticBanter
+
+P.S: come check out my plain Web-Site over at [staticBlogs](https://staticblogs.ca), it's kinda bare right now but in the future it might become something... :man_shrugging:
