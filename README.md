@@ -1,6 +1,6 @@
 staticBanter
 =
-> Regular Develop
+> Regular Developer
 
 EH everyone you can call me staticBanter, and i am a regular developer; 
 * I stay up late pulling my hair out over bugs(that don't actually matter) :face_with_spiral_eyes:
